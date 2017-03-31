@@ -1,8 +1,8 @@
 {
-    "name": "theme-material-theme",
+    "name": "theme-material-theme-firacode",
     "displayName": "Sublime Material Theme",
     "description": "Port of the Material Theme for Sublime Text.",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "publisher": "jprestidge",
     "engines": {
         "vscode": "^1.5.0"
@@ -11,13 +11,13 @@
         "Themes"
     ],
     "icon": "icon.png",
-    "homepage": "https://github.com/JarvisPrestidge/vscode-material-theme",
+    "homepage": "https://github.com/jeremistadler/vscode-material-theme",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/JarvisPrestidge/vscode-material-theme.git"
+		"url": "https://github.com/jeremistadler/vscode-material-theme.git"
 	},
     "bugs": {
-	"url": "https://github.com/JarvisPrestidge/vscode-material-theme/issues",
+	"url": "https://github.com/jeremistadler/vscode-material-theme/issues",
 	"email": "jarvisprestidge@gmail.com"
 	},
     "license": "SEE LICENSE IN LICENSE.md",
